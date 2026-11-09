@@ -1,0 +1,17 @@
+{
+  "name": "tugas1-mongodb-perpustakaan",
+  "version": "1.0.0",
+  "description": "API Perpustakaan Buku dengan MongoDB Native Driver (Tugas 1 Pertemuan 6)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node test-demo.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
+

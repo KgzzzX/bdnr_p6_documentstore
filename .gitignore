@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.local
+
+# Firebase credentials
+serviceAccountKey.json
+*firebase-adminsdk*.json
+
+# Dependencies
+node_modules/
+vendor/
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
+

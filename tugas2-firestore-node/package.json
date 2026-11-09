@@ -1,0 +1,20 @@
+{
+  "name": "tugas2-firestore-perpustakaan",
+  "version": "1.0.0",
+  "description": "API Perpustakaan Buku dengan Firebase Firestore (Tugas 2 Pertemuan 6)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node test-demo.js"
+  },
+  "keywords": ["firebase", "firestore", "express", "api", "perpustakaan"],
+  "author": "Aji",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.1"
+  }
+}
+
